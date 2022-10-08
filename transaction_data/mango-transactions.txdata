@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "mangoExists",
+        "transactionLabel": "A test mangoExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createMango",
+        "transactionLabel": "A test createMango transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readMango",
+        "transactionLabel": "A test readMango transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateMango",
+        "transactionLabel": "A test updateMango transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteMango",
+        "transactionLabel": "A test deleteMango transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
